@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in Ada programming involving loop iteration and exit conditions. The code in `bug.ada` uses an array index for the loop and an array value for the exit condition which produces unexpected results. The corrected code is in `bugSolution.ada`.
